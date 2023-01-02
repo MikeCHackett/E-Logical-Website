@@ -1,7 +1,8 @@
 # E-Logical Web Services
 
 
-## E-logical is a web development company that I am starting, focused on creating custom web applications for clients
+## E-logical is a web development company that I am starting, 
+focused on creating custom web applications for clients
 using the latest technologies and best practices.
 
 
