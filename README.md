@@ -23,6 +23,11 @@ delivering high-quality user-friendly web applications and we are constantly see
 
 - [View Site Here](https://elogicalwebservices.netlify.app/)
 
+
+# What I plan to add
+
+### I plan to add mobile responsiveness and a backend database to store the users who sign up and log in.
+
 **All rights reserved to E-logical Web Services**
 
 *Copyright (c) 2022 E-Logical Web Services*
